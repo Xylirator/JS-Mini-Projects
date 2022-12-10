@@ -130,7 +130,7 @@ p {
   max-width: 1170px;
 }
 @media screen and (min-width: 992px) {
-  .section-center {
+  .section__center {
     width: 95vw;
   }
 }
